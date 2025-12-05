@@ -5,17 +5,16 @@
 ### Hibernation
 
 Pick one of the players.
-The selected player cannot place tokens for the next turn.
+The selected player cannot place tokens for their next turn.
 
 ### Freeze
 
-Pick one of the tiles.
-The selected tile becomes indestructible and immune to all other card effects until your next turn.
+Make a tile indestructible and immune to all other card effects until your next turn.
 
 ### Icicle 
 
 Pick a player.
-The selected player needs to choose and remove one of their tokens from the board.
+The selected player has to remove one of their tokens from the board.
 
 ### Little cold hands
 
@@ -25,7 +24,7 @@ The selected player cannot use cards for their next turn.
 ### Snowman
 
 Pick a player.
-The selected player cannot move to other tiles for their next turn.
+The selected player cannot move for their next turn.
 
 ### Barrier
 
@@ -41,6 +40,8 @@ You cannot place more tokens this turn.
 ### Ice Shield
 
 No player can target you with card effects for one round.
+No one can move through your occupied area for one round.
+If they are there, already they cannot move.
 
 ### New Year, New you
 
@@ -50,7 +51,7 @@ The selected player has to select and discard 3 cards from their hand and draw 3
 
 ### Santa Claus is coming to town
 
-The other seasons must select and give you one of their cards from their hand.
+The other players must each gift you a card from their hands.
 
 ### Valentine’s day
 
@@ -61,7 +62,7 @@ Place down a token for another season.
 
 ### Boost
 
-You can place 2 tokens instead of 1 for this round.
+Place 2 tokens instead of 1 for this round.
 
 ### Spring sprint
 
@@ -85,24 +86,24 @@ Draw 2 cards.
 
 ### Melt
 
-Destroy one token on the tile you stand on.
+Remove one token from the tile you stand on.
 
 ### Scorch
 
-Destroy all tokens on the tile you stand on.
+Remove all tokens from the tile you stand on.
 
 ### Heat
 
-Destroy a random card from another player's hand.
+Discard a card from another player's hand.
 
 ### No more 
 
 Draw three cards from one of the other players' piles.
-Destroy one card of them, and put the other 2 back to the pile.
+Discard one of them, and put the other 2 back to the pile.
 
 ### Burn!
 
-All players have to discard one card from their hand.
+All other players have to discard one card from their hand.
 
 ### Vacation
 
@@ -110,17 +111,16 @@ Draw 2 cards.
 
 ### Sun Ray
 
-Destroy a token on an arbitrary tile.
+Remove a token from an arbitrary tile.
 
 ### Summer travels
 
-Teleport other seasons to your territory.
+Other players should teleport to a tile you occupy.
 This card MUST be played after you draw it.
 
 ### Siesta
 
-The other seasons need to take a siesta.
-They cannot move for one turn.
+Other players cannot move for one round.
 
 
 ## Autumn
@@ -131,7 +131,7 @@ Swap any 2 tokens on the board.
 
 ### Harvest
 
-Draw one card blindly from the hand of another player.
+Draw a card from another player's hand.
 
 ### Summer is gone
 
@@ -140,7 +140,7 @@ Change one placed token to a token of your type.
 
 ### Falling leaves
 
-Place up to 3 tokens on top of any tiles that you already occupy.
+Place up to 3 tokens on top of any tile(s) that you already occupy.
 (You can have at most 3 tokens on each tile.)
 
 ### Thanksgivings
@@ -149,11 +149,11 @@ This turn, when you draw cards, draw 3 and keep all 3.
 
 ### Black Friday
 
-Gain two tokens from a hidden reserve.
+Gain two tokens from the hidden reserve.
 
 ### Breeze
 
-Push an enemy token that is next to one of yours one tile away from you.
+Push an other player's token that is next to one of yours one tile away from you.
 
 ### Colors of the wind
 
@@ -168,7 +168,7 @@ Place down a token on any tile that is not occupied by someone else.
 
 ### Counter [reaction]
 
-Nullify the effect that another card would have on you.
+Nullify the effect of another card.
 
 ### Teleport 
 
@@ -181,7 +181,7 @@ Teleport to any tile you occupy.
 
 ### Shield
 
-Other players cannot target you with card effects for 1 round.
+Other players cannot target you with card effects until your next round.
 
 ### Reinforcements
 
@@ -195,11 +195,6 @@ Draw a card from another season's drawing pile.
 
 Change your position to the center of the board.
 You must return back to your original position after your turn has ended.
-
-### Geometry lovers
-
-Keep this card to the very end.
-You gain an extra point for every 5 tokens that form a straight line.
 
 ### Golden Tree
 
